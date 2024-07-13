@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="no_details_for_chosen_cat">There is no details for chosen cat</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search for a cat</string>
+    <string name="failed_to_load">Failed to load. Error message:</string>
+    <string name="no_cat_breed">No cat breed found</string>
+    <string name="rare">Rare</string>
+    <string name="adaptability">Adaptability</string>
+    <string name="affection_level">Affection level</string>
+    <string name="child_friendly">Child friendly</string>
+    <string name="dog_friendly">Dog friendly</string>
+    <string name="energy_level">Energy level</string>
+    <string name="grooming">Grooming</string>
+    <string name="health_issues">Health issues</string>
+    <string name="intelligence">Intelligence</string>
+    <string name="description">Description</string>
+    <string name="origins">Countries of origin</string>
+    <string name="temperament">Temperament</string>
+    <string name="life_span">Life span</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+</resources>
